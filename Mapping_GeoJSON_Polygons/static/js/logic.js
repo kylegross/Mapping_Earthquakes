@@ -29,8 +29,8 @@ L.control.layers(baseMaps).addTo(map);
 let torontoHoods = "https://raw.githubusercontent.com/kylegross/Mapping_Earthquakes/main/torontoNeighborhoods.json";
 // Create a style for the lines.
 let myStyle = {
-  color: "#ffffa1",
-  fillColor: "#ff8c00",
+  color: "#0000FF",
+  fillColor: "#ffffa1",
   weight: 1
 };
 // Grabbing our GeoJSON data.
